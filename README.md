@@ -24,4 +24,5 @@ Integration on website
 
 Online demo
 --------------------------------------
+[codepen.io](https://codepen.io/p_p/pen/oeGqZY "example")
 
